@@ -28,7 +28,7 @@ Hierarchical clustering was chosen for its:
 - Clear visual outputs (dendrograms, PCA plots).
 
 ## 🛠️ Data Engineering
-- Cleaned non-numeric entries (e.g., 'c', 'z', 'x')
+- Replaced non-numeric entries ('c', 'z', 'x', 'u', 'k') with NaN
 - Imputed missing values using median
 - Scaled features using StandardScaler
 - Merged reference data for interpretation
@@ -53,8 +53,23 @@ Hierarchical clustering was chosen for its:
 - `cluster_summary.csv`
 
 ## 📚 References
-- Children in Need Census Guidance (DfE, 2024)
-- Scikit-learn & SciPy documentation
-- Gupta et al. (2023) – Clustering comparison
+
+- DataCamp (2025) Hierarchical clustering: concept overview with examples. Available at: https://www.datacamp.com/tutorial/hierarchical-clustering (Accessed: 2 September 2025).
+
+- Department for Education (2024) Characteristics of children in need in England. Available at: https://explore-education-statistics.service.gov.uk/find-statistics/characteristics-of-children-in-need (Accessed: 2 September 2025).
+
+- Department for Education (2024) Children in Need Census 2024 to 2025: Guide. Available at: https://www.gov.uk/government/publications/children-in-need-census-2024-to-2025-guide (Accessed: 2 September 2025).
+
+- Gupta, A., Sharma, H. and Akhtar, A. (2023) ‘A comparative analysis of K-means and hierarchical clustering’, EPRA International Journal of Multidisciplinary Research. Available at: https://eprajournals.com/IJMR/article/5796/download (Accessed: 2 September 2025).
+
+- Larose, D.T. and Larose, C.D. (2014) Discovering knowledge in data: An introduction to data mining. 2nd edn. Wiley. Available at: https://ieeexplore.ieee.org/book/10066951 (Accessed: 2 September 2025).
+
+- Microsoft (2025) Copilot (GPT-4) [Large Language Model]. Available at: https://copilot.microsoft.com (Accessed: 2 September 2025).
+
+- Pedregosa, F. et al. (2011) ‘Scikit-learn: Machine learning in Python’, Journal of Machine Learning Research, 12(Oct), pp. 2825–2830.
+
+- The National Archives (2015) Open Government Licence v3.0. Available at: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ (Accessed: 2 September 2025).
+
+- Virtanen, P. et al. (2020) ‘SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python’, Nature Methods, 17(3), pp. 261–272.
 
 ---
