@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project applies hierarchical clustering to group local authorities in England based on case closure reasons from the Children in Need Census (2013–2024). It supports benchmarking, policy evaluation, and strategic planning.
 
-As a practitioner in social services, with a focus on children and adult services, I selected this dataset due to its relevance to my domain and its potential to inform evidence-based decision-making.
+As a practitioner in social services, with a focus on children and adult services, I selected this dataset due to its relevance to my domain and its potential to inform evidence-based decision-making in my organisation.
 
 ## 🧰 Tools & Environment
 - **Python (Jupyter Notebook)**: Interactive development and analysis.
